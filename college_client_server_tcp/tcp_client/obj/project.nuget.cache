@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ssssqf+jvt5NU3vntPrf2803wGcjSCj0rLyqNDZzxtJvX/wFy/f2zh5cv55pJ6ordq3Yp6Pj3qHOrOA72VsfUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Machenike\\source\\repos\\college_client_server_tcp\\tcp_client\\tcp_client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Machenike\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Machenike\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Machenike\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Machenike\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

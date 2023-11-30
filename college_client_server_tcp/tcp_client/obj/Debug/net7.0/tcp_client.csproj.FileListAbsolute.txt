@@ -1,0 +1,14 @@
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\bin\Debug\net7.0\tcp_client.exe
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\bin\Debug\net7.0\tcp_client.deps.json
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\bin\Debug\net7.0\tcp_client.runtimeconfig.json
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\bin\Debug\net7.0\tcp_client.dll
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\bin\Debug\net7.0\tcp_client.pdb
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\tcp_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\tcp_client.AssemblyInfoInputs.cache
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\tcp_client.AssemblyInfo.cs
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\tcp_client.csproj.CoreCompileInputs.cache
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\tcp_client.dll
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\refint\tcp_client.dll
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\tcp_client.pdb
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\tcp_client.genruntimeconfig.cache
+C:\Users\Machenike\source\repos\college_client_server_tcp\tcp_client\obj\Debug\net7.0\ref\tcp_client.dll

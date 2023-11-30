@@ -1,0 +1,271 @@
+adult;взрослый
+age;возраст
+baby;малыш
+birth;рождение
+boy;мальчик
+child;ребенок
+childhood;детство
+girl;девочка
+human;человек
+kid;ребенок
+life;жизнь
+maiden name;девичья фамилия
+man;мужчина
+name;имя
+people;люди
+person;человек
+personality;личность
+surname;фамилия
+teenager;подросток
+woman;женщина
+youth;молодежь, молодость 
+he;он
+her;ее
+him;его (объектн.)
+his;его (притяжат.)
+I;я
+it;оно
+my;мой
+our;наш
+she;она
+their;их (притяжат.)
+them;их (объектн.)
+they;они
+we;мы 
+arm;рука
+back;спина
+belly;живот
+blood;кровь
+body;тело
+bone;кость
+brain;мозг
+cheek;щека
+chest;грудь
+chin;подбородок
+ear;ухо
+elbow;локоть
+eye;глаз
+eyebrow;бровь
+eyelash;ресница
+face;лицо
+finger;палец
+fist;кулак
+foot;ступня
+forehead;лоб
+hair;волосы
+hand;кисть руки
+heart;сердце
+heel;пятка
+hip;бедро
+jaw;челюсть
+kidney;почка
+knee;колено
+leg;нога
+lips;губы
+little finger;мизинец
+liver;печень
+lung;легкое
+mouth;рот
+muscle;мышца
+nail;ноготь
+neck;шея
+nerve;нерв
+nose;нос
+palm;ладонь
+rib;ребро
+ring finger;безымянный палец
+skeleton;скелет
+skin;кожа
+skull;череп
+stomach;желудок
+throat;горло
+thumb;большой палец
+toe;палец на ноге
+tongue;язык
+tooth;зуб
+wrist;запястье 
+to be;быть
+to breathe;дышать
+to hear;слышать
+to hold;держать
+to lie;лежать
+to look;смотреть
+to see;видеть
+to sit;сидеть
+to speak;говорить
+to touch;трогать
+to walk;ходить 
+attractive;привлекательный
+bald;лысый
+beard;борода
+beautiful;красивый
+beauty;красота
+blond;белокурый
+bushy;густой (про брови или бороду)
+common;обычный
+curly;кудрявый
+cute;милый
+dark;темный
+fat;толстый
+figure;фигура
+flush;румянец
+freckles;веснушки
+ginger;рыжий
+haircut;прическа, стрижка
+height;рост
+hooked;крючковатый (про нос)
+moustache;усы
+oval;овальный
+pale;бледный
+plump;пухлый
+round;круглый
+short;короткий
+slim;тонкий, стройный
+square;квадратный
+straight;прямой
+tall;высокий
+thin;худой
+ugly;уродливый
+wavy;волнистый
+weight;вес 
+active;активный
+angry;злой
+blue;грустный
+boring;скучный
+brave;храбрый
+calm;спокойный
+careful;осторожный
+character;характер
+cheerful;радостный
+clever;умный
+confused;сбитый с толку
+creative;креативный, творческий
+cruel;жестокий
+curious;любопытный
+easy-going;легкий на подъем
+emotional;эмоциональный
+excited;взволнованный
+fair;честный
+friendly;дружелюбный
+generous;щедрый
+genius;гениальный
+gentle;мягкий
+glad;довольный
+greedy;жадный
+happy;счастливый
+hard-working;трудолюбивый
+honest;честный
+intelligent;умный
+jealous;ревнивый, завистливый
+kind;добрый
+lazy;ленивый
+loyal;верный
+lucky;удачливый
+moody;хмурый
+nervous;нервный
+open;открытый
+optimistic;оптимистичный
+patient;терпеливый
+proud;гордый
+quiet;тихий
+reliable;надежный
+romantic;романтичный
+rude;грубый
+sad;грустный
+shy;стеснительный
+sensitive;чувствительный
+serious;серьезный
+stupid;глупый
+talented;талантливый
+tough;жесткий
+upset;расстроенный
+wise;мудрый
+witty;остроумный
+adoption;усыновление
+aunt;тетя
+boyfriend;парень (друг)
+bride;невеста
+brother;брат
+brother-in-law;шурин, деверь
+cousin;двоюродный брат или сестра
+daughter;дочь
+daughter-in-law;сноха, невестка
+divorce;развод
+engagement;помолвка
+ex-husband;бывший муж
+ex-wife;бывшая жена
+family;семья
+father;отец
+foster family;приемная семья
+friend;друг
+girlfriend;девушка (подруга)
+godfather;крестный отец
+godmother;крестная мать
+grandchildren;внуки
+granddaughter;внучка
+grandfather;дедушка
+grandmother;бабушка
+grandparents;бабушка и дедушка
+grandson;внук
+half-brother;брат со стороны отца или матери
+half-sister;сестра со стороны отца или матери
+husband;муж
+lover;любовник(-ца)
+marriage;брак
+mother;мать
+mother-in-law;теща, свекровь
+nephew;племянник
+niece;племянница
+parents;родители
+relative;родственник
+sister;сестра
+son;сын
+stepbrother;сводный брат
+stepfather;отчим
+stepmother;мачеха
+stepsister;сводная сестра
+twins;близнецы
+uncle;дядя
+wedding;свадьба
+widow;вдова
+widower;вдовец
+wife;жена 
+belt;ремень
+blouse;блузка
+boots;ботинки
+bracelet;браслет
+cap;кепка
+chain;цепочка
+cloak;плащ
+clothes;одежда
+coat;пальто
+dress;платье
+earrings;серьги
+formal clothes;официальная одежда
+hat;шляпа
+high boots;сапоги
+high heels;высокие каблуки
+hoodie;худи, толстовка
+jacket;пиджак
+jeans;джинсы
+necklace;ожерелье
+pocket;карман
+pyjamas;пижама
+raincoat;плащ-дождевик
+ring;кольцо
+shirt;рубашка
+shoes;туфли
+shorts;шорты
+skirt;юбка
+slippers;тапочки
+socks;носки
+sportswear;спортивный костюм
+suit;костюм
+sweater;свитер
+swimwear;купальный костюм
+trainers;кроссовки
+T-shirt;футболка
+umbrella;зонт
+underwear;нижнее белье
+uniform;униформа
+zip;застежка-молния 
